@@ -6,7 +6,7 @@ Ofrece endpoints que facilitan la obtención de una lista completa de estudiante
 
 A continuación, veremos una serie de capturas que ilustrarán de forma más visual como funciona el programa, mostrando diferentes casos prácticos y su aplicación en situaciones reales.
 
-Comenzando con una captura del crud, que muestra las diferentes operaciones disponibles.
+Comenzando con una imagen del crud, que muestra las diferentes operaciones disponibles.
 
 ![alt text](imagenes/captura_crud.png)
 
@@ -27,7 +27,7 @@ En esta imagen se presenta el endpoint update, que permite modificar la informac
 
 ![alt text](imagenes/captura_update.png)
 
-Este endpoint delete, que vemos en la imagen, permite eliminar un alumno especifico de la base de datos.
+El endpoint delete, que podemos apreciar en la imagen, permite eliminar un alumno especifico de la base de datos.
 
 ![alt text](imagenes/captura_delete.png)
 
